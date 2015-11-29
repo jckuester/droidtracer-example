@@ -1,0 +1,3 @@
+[submodule "droidtracer"]
+	path = droidtracer
+	url = https://github.com/jckuester/droidtracer-module.git
